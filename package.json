@@ -1,5 +1,5 @@
 {
-  "name": "@ajaybhatia/minimongo-cache",
+  "name": "@bilicio/minimongo-cache",
   "version": "0.1.3",
   "description": "Fork of minimongo designed for caching",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "upload": "npm publish --access=public"
   },
   "license": "LGPLv3",
-  "homepage": "https://github.com/ajaybhatia/minimongo-cache",
+  "homepage": "https://github.com/bilicio/minimongo-cache",
   "devDependencies": {
     "babel-preset-es2015": "^6.3.13",
     "bowser": "^2.3.0",
